@@ -1,0 +1,9 @@
+/* CSS for styling the answer buttons */
+.answers-container button {
+  display: block;
+  margin-bottom: 10px; /* Adjust as needed for spacing */
+}
+
+.reset-button, .timer {
+  margin-top: 10px;
+}
